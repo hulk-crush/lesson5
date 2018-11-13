@@ -6,7 +6,6 @@ package thread;
 //static final int size = 10000000;
 //static final int h = size / 2;
 //        float[] arr = new float[size];
-//
 //        2) Заполняют этот массив единицами;
 //        3) Засекают время выполнения: long a = System.currentTimeMillis();
 //        4) Проходят по всему массиву и для каждой ячейки считают новое значение по формуле:
